@@ -1,1 +1,1 @@
-python3 gpt-tg.py
+python3 main.py
